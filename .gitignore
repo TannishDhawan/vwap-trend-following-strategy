@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Large data files (optional - see note below)
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Jupyter checkpoints (if you use notebooks later)
+.ipynb_checkpoints/
